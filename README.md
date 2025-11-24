@@ -1,3 +1,10 @@
+###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+###
+
+
 <h1 align="center">Hi 👋, I'm Eshan</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
@@ -31,9 +38,6 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 
 
